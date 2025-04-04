@@ -1,1 +1,1 @@
-# SQL_project_1
+Loan Management System
